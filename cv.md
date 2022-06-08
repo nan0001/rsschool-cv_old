@@ -24,6 +24,6 @@ Started to learn english at school, continued at university.
 I'm 24 y.o., work remotely and live in Vitebsk, Belarus.
 Started to learn `python` myself, but after learning basics was a little bit confused)
 
-That's me ~~when I was young~~ at 2018. Now I have longer hair and look a bit older))
+That's me ~~when I was young~~ at 2018. Now I have longer hair and look a bit older)
 
 ![My photo](https://sun9-70.userapi.com/s/v1/if1/xiRdyHKuy2gz2Zn2OKx97ReYVQyCj7pOfHsROhdIEN_qloGMlS6PBPhdLlRW8iFoQB7FyXPB.jpg?size=720x1080&quality=96&type=album)
