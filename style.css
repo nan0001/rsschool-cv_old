@@ -83,3 +83,36 @@ body {
 .link:hover {
     color: #3D4034;
 }
+
+.footer {
+    border: 2px solid #BF9780;
+    background-color: #5e5040;
+    color: #BF9780;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    color: #BF9780;
+    transition: .3s
+}
+
+.footer-link:hover {
+    color: #16120e;
+    text-decoration: underline;
+}
+
+.rss {
+    width: 121px;
+    height: 45px;
+    background-image: url("https://rs.school/images/rs_school_js.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
