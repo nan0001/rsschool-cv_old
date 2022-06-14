@@ -17,6 +17,7 @@ body {
     font-size: 20px;
     background-color: #F2F0D5;
     color: #3D4034;
+    line-height: 1.5;
 }
 
 .container {
@@ -49,10 +50,36 @@ body {
     text-decoration: underline;
 }
 
-.main {
-    border: 1px solid red;
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
 }
 
-.footer {
-    border: 1px solid red;
+.section {
+    width: 50%;
+    font-size: 18px;
+}
+
+.section-title {
+    font-size: 20px;
+}
+
+.profile {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.link {
+    text-decoration: none;
+    color: #BF9780;
+}
+
+.link:hover {
+    color: #3D4034;
 }
